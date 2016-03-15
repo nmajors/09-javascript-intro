@@ -28,13 +28,13 @@ var numberSeven = 7;
 var numberSum = numberSix + numberSeven;
 
 var myAge = true;
-if (myAge = true) {
+if (myAge) {
   console.log("Truth.");
 } else {
   console.log("Falsehood.");
 }
 
-for (var i = 0; i <= 10; i++) {
+for (var i = 0; i < 10; i++) {
   console.log(i);
 }
 
